@@ -20,7 +20,7 @@
     "@vue/cli-plugin-router": "~5.0.8",
     "@vue/cli-service": "^5.0.8",
     "@vue/eslint-config-standard": "^8.0.1",
-    "eslint": "^9.7.0",
+    "eslint": "^7.5.0 || ^8.0.0 || ^9.0.0",
     "eslint-plugin-import": "^2.29.1",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^6.4.0",
